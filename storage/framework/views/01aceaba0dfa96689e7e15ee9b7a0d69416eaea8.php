@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\laravel\basic\resources\views/admin/body/header.blade.php ENDPATH**/ ?>
